@@ -1,0 +1,4 @@
+# Keep large datasets out of Git. The local copies remain in each lab folder.
+Lab*/dataset/
+# Trained model created by Lab 9 Task 3 (re-created when the notebook runs).
+Lab9/custom_ner_model/
